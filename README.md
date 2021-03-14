@@ -1,7 +1,7 @@
 # rocketpool-vps-guide
 
 
-### Initial provider comparison of VPS nodes that meet the Rocket Pool minimum requirements.
+### Initial provider comparison of VPS nodes that meet the Rocket Pool requirements.
 
 | Provider     | Model                                                                                                                                                                | CPU | RAM (GB) | SSD Storage (GB) | Price (Month) USD |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | -------- | ---------------- | ----------------- |
