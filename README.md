@@ -10,6 +10,7 @@
 | OVH          | [Comfort](https://us.ovhcloud.com/order/vps/?v=3#/vps/build?selection=~(range~'Comfort~pricingMode~'default~flavor~'vps-comfort-4-8-160~datacenters~(US-EAST-VA~1))) | 4   | 8        | 160 +200         | $45.00            |
 | So you Start | [E3-SSD-1-32](https://www.soyoustart.com/us/order/soYouStart.xml?reference=1804sys47)                                                                                | 4   | 32       | 480              | $48.00            |
 | Linnode      | N/A                                                                                                                                                                  | 6   | 16       | 320              | $80.00            |
+| AWS      | [t2.large](https://aws.amazon.com/ec2/instance-types/t2/)                                                                                                                | 2   | 8       | 400              | $120.00            |
 
 
 
