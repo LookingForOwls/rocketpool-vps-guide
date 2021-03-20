@@ -12,6 +12,7 @@
 | Linnode      | N/A                                                                                                                                                                  | 6   | 16       | 320              | $80.00            |
 | AWS      | [t2.large](https://aws.amazon.com/ec2/instance-types/t2/)                                                                                                                | 2   | 8       | 400              | $132.00            |
 
+<br />
 
 ## Hardening
 
@@ -23,7 +24,6 @@ For all VPS provides always change passwords for the management portals.
 ##### Disable VNC:
 VPS control > Manage > Disable VNC
 
-<br />
 
 #### Accounts & SSH
 
@@ -46,7 +46,7 @@ Reload sshd:
 sudo service sshd reload
 ```
 
-##### Bonus Section:
+##### Bonus: Disable SSH Password Login:
 Deploy SSH keys and disable SSH Password Authentication
 
 Copy local ssh pubic ket to server with `ssh-copy-id <username>@<server>`
@@ -64,7 +64,6 @@ Reload sshd:
 sudo service sshd reload
 ```
 
-<br />
 
 ### Firewall
 
